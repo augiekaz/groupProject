@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Boxed - Coming Soon</title> <!-- Add your title -->
+    <title>You Will Ship Your Pants</title> <!-- Add your title -->
     <link rel="shortcut icon" href="images/favicon.ico" /> <!-- Add your own favicon to the images folder -->
     
     <!-- STYLES -->
@@ -40,6 +40,55 @@
     
 </head>
 <body>
+
+
+
+ <!-- EMAIL SIGNUP SECTION -->
+    <section class="email-signup">
+        <div class="container">
+            <h1 class="heading">Jub.Club Go</h1>
+            <p class="lead">Get the products that don't ship to your country</p>
+            <form action="scripts/newsletter.php" method="post" id="newsletter-form">
+                <input type="email" name="newsletter-email" id="newsletter-email" class="form-control" placeholder="Enter Your Email" data-validate="validate(required, email)" />
+                <input type="submit" id="newsletter-submit" class="btn" value="Sign Up" />
+                <div class="alert alert-success" id="newsletter-success"></div>
+                <div class="alert alert-danger" id="newsletter-error"></div>
+
+<!-- fb connect button goes here.-->
+                                        <input type="button" id="sendBut1" value="Facebook" onClick="loginUser();" class="btn btn-default pull-right button-send btn-lg"/>
+
+
+                
+
+ <!-- socialShare goes here -->
+
+                             <div id="socialShare">
+
+                                <!--twitter button -->
+                                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://jub.club" data-text="Get products that don't ship to your country" data-count="none">Tweet</a>
+                                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
+                                    <!--facebook share button -->
+                                    <div class="fb-share-button" data-href="https://jubclub.com" data-type="button" style="margin-top:20px"></div>
+                                    
+                                    <!--end facebook share button-->
+
+
+
+
+            </form> <!-- end newsletter-form -->
+        </div> <!-- end container -->
+    </section> <!-- end email-signup -->
+
+
+
+
+
+
+
+
+
     
     <!-- MAIN -->
     <section class="main">
@@ -72,43 +121,7 @@
 		</div> <!-- end countdown -->
     </section> <!-- end countdown-section -->
     
-    <!-- EMAIL SIGNUP SECTION -->
-    <section class="email-signup">
-    	<div class="container">
-    		<h1 class="heading">Start Shipping</h1>
-    		<p class="lead">Submit your email and start getting packages that don't ship to your country.</p>
-    		<form action="scripts/newsletter.php" method="post" id="newsletter-form">
-				<input type="email" name="newsletter-email" id="newsletter-email" class="form-control" placeholder="Enter Your Email" data-validate="validate(required, email)" />
-				<input type="submit" id="newsletter-submit" class="btn" value="Sign Up" />
-                <div class="alert alert-success" id="newsletter-success"></div>
-                <div class="alert alert-danger" id="newsletter-error"></div>
-
-<!-- fb connect button goes here.-->
-                                        <input type="button" id="sendBut1" value="Facebook" onClick="loginUser();" class="btn btn-default pull-right button-send btn-lg"/>
-
-
-                
-
- <!-- socialShare goes here -->
-
-                             <div id="socialShare">
-
-                                <!--twitter button -->
-                                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://jub.club" data-text="Get products that don't ship to your country" data-count="none">Tweet</a>
-                                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-
-                                    <!--facebook share button -->
-                                    <div class="fb-share-button" data-href="https://jubclub.com" data-type="button" style="margin-top:20px"></div>
-                                    
-                                    <!--end facebook share button-->
-
-
-
-
-            </form> <!-- end newsletter-form -->
-    	</div> <!-- end container -->
-    </section> <!-- end email-signup -->
+   
     
     <!-- FOOTER SECTION -->
     <section class="footer">

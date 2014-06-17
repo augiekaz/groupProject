@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Jub Club Go</title>
+<title>Nibiru</title>
 <!--[if lt IE 9]>
 <script src="js/html5.js" type="text/javascript"></script>
 <![endif]-->
@@ -32,7 +32,7 @@
 "1500">
     <a href="#"><img alt="logo" class=
     "logo center-block po-" src=
-    "images/logopic2.png"></a>
+    "http://nibiru.pixelobject.com/wp-content/uploads/2014/05/logo-nibiru.png"></a>
 </div>
 
 <div class="po-slider-details" data-details-animation="po-fade-in"
@@ -42,11 +42,8 @@ data-details-delay="1500">
             <div class="col-md-12 col-sm-offset-">
                 <button class=
                 "slider-btn po-slider-anchor btn outline-button white btn-lg btn-block btn-icon-ani center-block"
-                id="learn-more-button" type="button">Learn More</button>
-
-                <button class=
-                "slider-btn po-slider-anchor btn outline-button white btn-lg btn-block btn-icon-ani center-block"
-                id="learn-more-button" type="button"><a href="#newsletter-form">Apply Now</button>
+                id="learn-more-button" type="button">Learn
+                more</button>
             </div>
         </div>
     </div>
@@ -54,16 +51,14 @@ data-details-delay="1500">
 
 <div class="po-slider-text-container" data-text-delay="2500">
     <div class="po-slider-text center-block" data-text-animation="po-fade-in">
-        <h1 class="po-slider-header text-center">Get packages that don't ship to your country.</h1>
+        <h1 class="po-slider-header text-center">Bringing you closer to pixel
+        perfection.</h1>
 
-  <h1 class="po-slider-header text-center">
+        <h1 class="po-slider-header text-center">Powerful features. Easy to
+        use.</h1>
 
-
-  <!-- EMAIL SIGNUP SECTION HERE -->
-    
-       <h1 class="po-slider-header text-center">Apply today and get an address to forward your packages. We get the the items you buy online and ship them to you overnight.</h1>
-
-        <h1 class="po-slider-header text-center">You're Going to Ship Your Pants.</h1> 
+        <h1 class="po-slider-header text-center">Create an amazing user
+        experience — fast.</h1>
     </div>
 </div>
 
@@ -77,24 +72,19 @@ data-details-delay="1500">
     <ul class="po-slider-loop">
         <li><img alt="tumblr_mxrv2tfdaT1st5lhmo1_1280_mini" class=
         "attachment-full wp-post-image" height="850" src=
-        "images/beansbox.jpg"
+        "http://nibiru.pixelobject.com/wp-content/uploads/2014/03/tumblr_mxrv2tfdaT1st5lhmo1_1280_mini.jpg"
         width="1280"></li>
-
 
         <li><img alt="tumblr_mtw7pktaK11st5lhmo1_1280_mini" class=
         "attachment-full wp-post-image" height="848" src=
-        "images/cabin.jpg"
+        "http://nibiru.pixelobject.com/wp-content/uploads/2014/03/tumblr_mtw7pktaK11st5lhmo1_1280_mini.jpg"
         width="1280"></li>
 
         <li><img alt="tumblr_mr80c9Mbkt1st5lhmo1_1280_mini" class=
         "attachment-full wp-post-image" height="850" src=
-        "images/northpole.jpg"
-        width="1280"></li> -->
+        "http://nibiru.pixelobject.com/wp-content/uploads/2014/03/tumblr_mr80c9Mbkt1st5lhmo1_1280_mini.jpg"
+        width="1280"></li>
     </ul>
-
-
-
-
 </div>
 
 <div class="to-top"></div>
@@ -118,7 +108,7 @@ data-details-delay="1500">
                 <li class="menu-item dropdown active">
                     <a class="dropdown-toggle" data-target="#" data-toggle=
                     "dropdown" href=
-                    <!--"#">Home</a> -->
+                    "#">Home</a>
 
                     <ul class="dropdown-menu">
                         <li class="active"><a href="home-landing.html">Home:
@@ -194,7 +184,7 @@ data-details-delay="1500">
 
                                     <div class="column-content">
                                         <h4 class="text-center">
-                                        Order Online</h4>
+                                        Clean and powerful</h4>
 
                                         <div class="row">
                                             <div class=
@@ -204,7 +194,11 @@ data-details-delay="1500">
                                             </div>
                                         </div>
 
-                                        <p class="text-center box-text">Shop at your favorite e-tailer. When you check-out, use the address we provide (US).</p>
+                                        <p class="text-center box-text">Nibiru
+                                        couples clean, breath-taking design
+                                        with powerful yet simple features that
+                                        keep you in control of the user
+                                        experience your audience receives.</p>
                                     </div>
                                 </div>
                             </div>
@@ -218,7 +212,7 @@ data-details-delay="1500">
 
                                     <div class="column-content">
                                         <h4 class="text-center">
-                                        Get Your Package</h4>
+                                        Attention to detail</h4>
 
                                         <div class="row">
                                             <div class=
@@ -228,7 +222,12 @@ data-details-delay="1500">
                                             </div>
                                         </div>
 
-                                        <p class="text-center box-text">We handle shipping and logistics. Enjoy your caffè latte, while we get your purchases to you overnight</p>
+                                        <p class="text-center box-text">Nibiru’s
+                                        attention to detail is second to none.
+                                        Each pixel has been carefully crafted
+                                        to provide a user experience that is
+                                        intuitive, &nbsp;simple and
+                                        aesthetically simulating.</p>
                                     </div>
                                 </div>
                             </div>
@@ -242,7 +241,7 @@ data-details-delay="1500">
 
                                     <div class="column-content">
                                         <h4 class="text-center">
-                                        Review</h4>
+                                        First class support</h4>
 
                                         <div class="row">
                                             <div class=
@@ -252,7 +251,12 @@ data-details-delay="1500">
                                             </div>
                                         </div>
 
-                                        <p class="text-center box-text">We welcome your feeback to constantly enhance our service..</p>
+                                        <p class="text-center box-text">We
+                                        measure our success in terms of happy
+                                        customers. We’re not here to make
+                                        sales. We’re here help you achieve your
+                                        goals, well after you’ve purchased
+                                        Nibiru.</p>
                                     </div>
                                 </div>
                             </div>
@@ -268,10 +272,6 @@ data-details-delay="1500">
                     </div>
                 </div>
             </div>
-
-
-
-<!--
 
             <div class="entry-content">
                 <div class="section-background-white section-padding-nt">
@@ -1549,9 +1549,6 @@ data-details-delay="1500">
                 </div>
             </div>
 
--->
-
-
             <div class="entry-content">
                 <div class=
                 "po-section section-image section-background-image-fixed section-image-bg9">
@@ -1581,7 +1578,7 @@ data-details-delay="1500">
                                 <div class="wpcf7" id="wpcf7-f11-p654-o1">
                                     <div class="screen-reader-response"></div>
 
-                                    <form action="#wpcf7-f11-p654-o1" class=
+                                    <form action="/#wpcf7-f11-p654-o1" class=
                                     "wpcf7-form" method="post">
                                        
                                         <p><span class=
@@ -1646,21 +1643,18 @@ data-details-delay="1500">
                 </div>
             </div>
 
-
-            <!--
-
             <div class="container po-container-section">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="entry-content">
                             <div class="clearfix"></div>
-                        </div><!-- .entry-content 
+                        </div><!-- .entry-content -->
 
                         <div class="page-comments"></div>
                     </div>
                 </div>
             </div>
-        </article><!-- #post-## 
+        </article><!-- #post-## -->
     </div>
 
     <div class="no-padding">
@@ -1896,14 +1890,14 @@ data-details-delay="1500">
 
                     <div class="col-sm-8 visible-lg footer-nav-padding">
                         <nav class="navbar po-navbar-footer">
-                            <!-- Mobile display 
+                            <!-- Mobile display -->
 
                             <div class="navbar-header">
                                 <button class="navbar-toggle" data-target=
                                 ".navbar-ex1-collapse" data-toggle="collapse"
                                 type="button"><span class="sr-only">Toggle
                                 navigation</span> </button>
-                            </div><!-- Collect the nav links for toggling 
+                            </div><!-- Collect the nav links for toggling -->
 
                             <div class=
                             "collapse navbar-collapse navbar-ex1-collapse">
@@ -1930,52 +1924,6 @@ data-details-delay="1500">
     </div>
 </div>
 
--->
-
-<!-- EMAIL SIGNUP SECTION -->
-    <section class="email-signup">
-        <div class="container">
-            <h1 class="heading">Jub Club Go</h1>
-            <p class="lead">Submit your email and start getting packages that don't ship to your country.</p>
-            <form action="scripts/newsletter.php" method="post" id="newsletter-form">
-                <input type="email" name="newsletter-email" id="newsletter-email" class="form-control" placeholder="Enter Your Email" data-validate="validate(required, email)" />
-                <input type="submit" id="newsletter-submit" class="btn2" value="Sign Up" />
-                <div class="alert alert-success" id="newsletter-success"></div>
-                <div class="alert alert-danger" id="newsletter-error"></div>
-
-<!-- fb connect button goes here.-->
-                                        <input type="button" id="sendBut1" value="Facebook" onClick="loginUser();" class="btn2 btn2-default pull-right button-send btn2-lg"/>
-
-
-                
-
- <!-- socialShare goes here -->
-
-                             <div id="socialShare">
-
-                                <!--twitter button -->
-                                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://jub.club" data-text="Get products that don't ship to your country" data-count="none">Tweet</a>
-                                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-
-                                    <!--facebook share button -->
-                                    <div class="fb-share-button" data-href="https://jubclub.com" data-type="button" style="margin-top:20px"></div>
-                                    
-                                    <!--end facebook share button-->
-
-
-
-
-            </form> <!-- end newsletter-form -->
-        </div> <!-- end container -->
-    </section> <!-- end email-signup -->
-    
-
-
-
-
-
-
 <script src="js/jquery.min.js"></script>
 <script type='text/javascript' src='js/script.js'></script>
 <script type='text/javascript' src='js/jquery-192.js'></script>
@@ -1989,7 +1937,6 @@ data-details-delay="1500">
 <script type='text/javascript' src='js/modernizr.custom.js'></script>
 <script type='text/javascript' src='js/navigation.js'></script>
 <script type='text/javascript' src='js/skip-link-focus-fix.js'></script>
-<script src="js/fb.js"></script>
 
 
 </body>

@@ -1,6 +1,6 @@
 //enter your API Key here (between the "")
 
-  var fbAPIKey="732599710120288";
+  var fbAPIKey="644279435665883";
 
   //array that will store our first Facebook response with the user's info
   var response1;
@@ -58,7 +58,7 @@
       response1 = response;
 
       //add user's email to input field
-      $('#form-email').val(response1['email']);
+      $('#newsletter-email').val(response1['email']);
 
       //submit form after 1.5 seconds (show user their e-mail before sending)
       setTimeout(function(){
